@@ -1,0 +1,20 @@
+#pet{
+  height: 300px;
+ width: 300px;
+}
+/* add code here to make your image 300px square */
+title{
+   display:block;
+    color:red;
+    font:12px tahoma, serif;
+}
+h1{
+   
+    color:yellow;
+    font-family: "Lucida Console", "Courier New", monospace
+}
+
+/* add code here to change the color and font family of your name/title */
+#list{
+color: blue}
+/* Bonus: change the color of your list elements */
